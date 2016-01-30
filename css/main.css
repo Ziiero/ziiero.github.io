@@ -965,7 +965,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff58b6;
+  background: #624ab3;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -1588,6 +1588,7 @@ body {
   text-align: center;
   vertical-align: middle;
   border: none;
+  border-radius: 15px;
 }
 .post-gallery .post-gallery-img img {
   max-width: 100%;
