@@ -965,7 +965,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #624ab3;
+  background: #98ff1a;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -1386,6 +1386,7 @@ body {
 }
 .posts-expand .post-body .fancybox img {
   margin: 0 auto;
+  border-radius: 15px;
 }
 @media (max-width: 767px) {
   .posts-collapse {
